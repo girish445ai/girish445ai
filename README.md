@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate with proffessionals working in Computer vision and Machine Learning field.
 - 📫 You can reach me on...
  
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/girish-rongali-505a94148)
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/girish-rongali-505a94148)
 
 
 <br />
