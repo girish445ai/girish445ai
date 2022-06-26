@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Girish Rongali.
+- 👋 Hi, I’m Girish Rongali. I am a Research Scholar at Indian Institiute of Technology Madras.
 - 👀 I’m interested in learning Computer vision and Machine Learning .
 - 🤓 I’m looking to collaborate with professionals working in Computer vision and Machine Learning field.
 - 📫 You can reach me on...
